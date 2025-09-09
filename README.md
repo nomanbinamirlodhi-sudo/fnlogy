@@ -1,3 +1,3 @@
 # fnlogy
 this is comapny software <br>
-auther - Noman Bin Amir
+auther - Noman Bin Amir (Fnlogy)
